@@ -1,6 +1,8 @@
 import React from 'react'
 
 const ContactList = ({contacts}) => {
+
+    
     return (
         <div>
             <h1>Contacts</h1>
